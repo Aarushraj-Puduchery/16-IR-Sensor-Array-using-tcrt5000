@@ -39,6 +39,9 @@ The TCRT5000 and TCRT5000L are reflective sensors which include an infrared emit
 ### 3D PCB
 ![image](https://github.com/Aarushraj-Puduchery/16-IR-Sensor-Array-using-tcrt5000/assets/97360295/77b2af11-6f49-41c2-9b6a-130f005d714b)
 
+### Template for Sensor Positions
+![final 16 ir sensor with leds](https://github.com/Aarushraj-Puduchery/16-IR-Sensor-Array-using-tcrt5000/assets/97360295/a7392ffb-7a37-4a65-a000-098a19ff9bee)
+
 ### BOM List
 |S.No|Name|Quanity|Price(per)|
 |---|---|---|---|
@@ -47,7 +50,7 @@ The TCRT5000 and TCRT5000L are reflective sensors which include an infrared emit
 |3|10k ohm SMD|16|0.65|
 
 ### Future Upgrades
-1. Add 5050 RGB SMD Leds
+1. Add 5050 RGB SMD LEDs
 2. Add OnBorad Voltage Regulator for 3.3v
 3. Add Bus Connector instead of Header Pins
 
